@@ -40,6 +40,9 @@ PaginatePath = "page"
     # Decide if only summaries are shown on the main page or the full content
     showfullcontent = true
 
+    # Display header with title/subtitle
+    displayNavHeader = true
+
     # Uses Hugo internal templates if set
     opengraph = false
     schema = false
